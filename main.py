@@ -109,5 +109,55 @@
 #     return posrtowana
 # print(sort([(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]))
 
+# s1='python'
+#
+# s2=s1[::-1]
+#
+# print(s2)
+
+# lista= [1,'berta', 3, 4, -5,'kot,', -10.75, 3.14]
+#
+# print(lista[1:6])
+#
+# print(lista[2:6:2])
+# print(lista[:4])
+
+# lista = ["Rafal", "Agata", "Michal", "Pawel", "Grzegorz", "Robert", "A neta", "Tomasz", "Monika", "Klaudia", "Wiktor", "Kinga", "Marcin", "Tomasz", "Przemyslaw"]
+# a= sorted (lista)
+# print(a)
+# print(len(a))
+#
+# tel = {'Maja': 500456, 'Jasio': 343455}
+#
+# print(tel)
+#
+# tel ['ola'] = 3024127
+#
+# print(tel)
+#
+# del tel['Maja']
+#
+# print(tel)
+#
+#  s1 = float(input('podaj pierwsza liczbę: '))
+#  s2 = float(input('podaj druga liczbe: '))
+#  s3 = s1/s2
+#  s4 = s1%s2
+#  s5 = s1//s2
+#
+#  print(s3,s4,s5)
+
+# x=8
+# y=15
+#
+# if x>3 or y%2==0:
+#     print('Co najmniej jeden z warunków jest spełniony')
+#
+# if x<=3 or y%2!=0:
+#     print('Żaden warunek nie jest spełniony')
+
+
+
+
 
 
